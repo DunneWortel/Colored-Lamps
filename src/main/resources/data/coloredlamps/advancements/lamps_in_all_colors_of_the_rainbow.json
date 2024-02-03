@@ -1,0 +1,125 @@
+{
+   "parent":"minecraft:story/smelt_iron",
+   "criteria":{
+      "lamps_in_all_colors_of_the_rainbow":{
+         "conditions":{
+            "items":[
+               {
+                  "items": [
+                     "coloredlamps:black_redstone_lamp"
+                  ]
+               },
+               {
+                  "items": [
+                     "coloredlamps:blue_redstone_lamp"
+                  ]
+               },
+               {
+                  "items": [
+                     "coloredlamps:brown_redstone_lamp"
+                  ]
+               },
+               {
+                  "items": [
+                     "coloredlamps:cyan_redstone_lamp"
+
+                  ]
+               },
+               {
+                  "items": [
+                     "coloredlamps:gray_redstone_lamp"
+
+                  ]
+               },
+               {
+                  "items": [
+                     "coloredlamps:green_redstone_lamp"
+
+                  ]
+               },
+               {
+                  "items": [
+                     "coloredlamps:light_blue_redstone_lamp"
+
+                  ]
+               },
+               {
+                  "items": [
+                     "coloredlamps:light_gray_redstone_lamp"
+
+                  ]
+               },
+               {
+                  "items": [
+                     "coloredlamps:lime_redstone_lamp"
+
+                  ]
+               },
+               {
+                  "items": [
+                     "coloredlamps:magenta_redstone_lamp"
+
+                  ]
+               },
+               {
+                  "items": [
+                     "coloredlamps:orange_redstone_lamp"
+
+                  ]
+               },
+               {
+                  "items": [
+                     "coloredlamps:pink_redstone_lamp"
+
+                  ]
+               },
+               {
+                  "items": [
+                     "coloredlamps:purple_redstone_lamp"
+
+                  ]
+               },
+               {
+                  "items": [
+                     "coloredlamps:red_redstone_lamp"
+
+                  ]
+               },
+               {
+                  "items": [
+                     "coloredlamps:white_redstone_lamp"
+
+                  ]
+               },
+               {
+                  "items": [
+                     "coloredlamps:yellow_redstone_lamp"
+                  ]
+               }
+            ]
+         },
+         "trigger": "minecraft:inventory_changed"
+      }
+   },
+   "display": {
+      "description": {
+         "translate": "advancements.story.lamps_in_all_colors_of_the_rainbow.description"
+      },
+      "frame": "challenge",
+      "icon": {
+         "item": "coloredlamps:light_blue_redstone_lamp"
+      },
+      "title": {
+         "translate": "advancements.story.lamps_in_all_colors_of_the_rainbow.title"
+      }
+   },
+   "requirements": [
+      [
+         "lamps_in_all_colors_of_the_rainbow"
+      ]
+   ],
+   "rewards":{
+      "experience":50
+   }
+}
+
