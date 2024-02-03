@@ -20,7 +20,7 @@ import java.util.Map;
 
 public class ColoredLamps implements ModInitializer {
 
-	public static final String MODID = "cl";
+	public static final String MODID = "coloredlamps";
 	private static final Map<String, Block> COLORED_LAMPS = new LinkedHashMap<>();
 
 	static {

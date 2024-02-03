@@ -14,5 +14,8 @@
   "block.coloredlamps.brown_redstone_lamp": "Brown Redstone Lamp",
   "block.coloredlamps.green_redstone_lamp": "Green Redstone Lamp",
   "block.coloredlamps.red_redstone_lamp": "Red Redstone Lamp",
-  "block.coloredlamps.black_redstone_lamp": "Black Redstone Lamp"
+  "block.coloredlamps.black_redstone_lamp": "Black Redstone Lamp",
+
+  "advancements.story.lamps_in_all_colors_of_the_rainbow.title": "Disco?",
+  "advancements.story.lamps_in_all_colors_of_the_rainbow.description": "Obtain all color variants of the redstone lamp"
 }
